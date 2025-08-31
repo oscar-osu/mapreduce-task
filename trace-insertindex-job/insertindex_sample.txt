@@ -1,0 +1,4 @@
+Welcome to OpenTelemetry
+This is a test of the InsertIndex MapReduce job
+Each line will be numbered
+Enjoy tracing your Hadoop jobs!

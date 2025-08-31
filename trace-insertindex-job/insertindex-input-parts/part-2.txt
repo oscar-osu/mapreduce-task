@@ -1,0 +1,3 @@
+apple	doc2
+banana	doc2
+cat	doc2
